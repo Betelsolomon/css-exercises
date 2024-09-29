@@ -1,0 +1,16 @@
+.odd{
+    background-color: rgb(182, 138, 153);
+}
+.odd.one{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bluetext{
+    color: blue;
+}
+.odd.two{
+    font-size: 24px;
+}
+.greenback{
+    background-color: green;
+    font-size: 24px;
+}
