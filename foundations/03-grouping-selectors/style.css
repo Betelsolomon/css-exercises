@@ -1,0 +1,11 @@
+.click{
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.click.black{
+background-color: black;
+color: white;
+}
+.click.yellow{
+background-color: yellow;
+}
